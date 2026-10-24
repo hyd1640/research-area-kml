@@ -1,0 +1,11 @@
+{
+  "sources": [
+    {
+      "paper_id": "SYNTHETIC",
+      "kml": "../demo_output/study_area_WGS84_EPSG4326.kml",
+      "paper_title": "Synthetic demonstration article (not a real publication)",
+      "title_source": {"type": "pdf_title", "page": 1, "note": "Synthetic test fixture, not an extracted PDF title"},
+      "qa_status": "synthetic_only"
+    }
+  ]
+}

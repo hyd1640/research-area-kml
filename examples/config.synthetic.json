@@ -1,0 +1,16 @@
+{
+  "name": "SYNTHETIC_TEST_ONLY - not a real study area",
+  "confidence": "low",
+  "boundary_role": "study_boundary",
+  "boundary_complete": true,
+  "source": {"pdf": "synthetic-no-source.pdf", "pdf_page": 1, "figure": "Synthetic test only", "paper_title": "Synthetic demonstration article (not a real publication)", "title_source": {"type": "pdf_title", "page": 1, "note": "Synthetic test fixture, not an extracted PDF title"}},
+  "datum_note": "Synthetic WGS84 coordinates; no real geography is asserted.",
+  "boundary_evidence": "Artificial quadrilateral used to demonstrate coordinate export, not an extracted paper boundary.",
+  "boundary_pixels": [[0,0],[10,0],[10,10],[0,10]],
+  "registration": {
+    "method": "axis_ticks",
+    "north_up_confirmed": true,
+    "x_ticks": [[0,105],[10,105.01]],
+    "y_ticks": [[0,1.01],[10,1]]
+  }
+}
